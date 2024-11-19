@@ -1,5 +1,5 @@
 # django-todo
-A simple todo app built with django
+A complex todo app built with django
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
@@ -34,5 +34,7 @@ $ python manage.py runserver
 ```
 
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
+
+Added an example message to README
 
 Cheers and Happy Coding :)
